@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1012823138632",
+    "project_id": "fitty-412d9",
+    "storage_bucket": "fitty-412d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1012823138632:android:ae90c5b389c48f1e3c537d",
+        "android_client_info": {
+          "package_name": "com.example.fluttercourse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1012823138632-qh13s86bje04h0fpmoiqmh2j3elapam0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCO9gpjUycpHG32cGYGc6rh_kCRcXM6E6g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1012823138632-qh13s86bje04h0fpmoiqmh2j3elapam0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
